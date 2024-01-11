@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ramiro! <br/><a href="https://www.linkedin.com/in/ramirogarcesjr/">IT Professional</a>,<a href="https://github.com/ramgarces/CybersecurityPortfolio/">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Ramiro! <br/><a href="https://www.linkedin.com/in/ramirogarcesjr/">IT Professional</a>, <a href="https://github.com/ramgarces/CybersecurityPortfolio/">Aspiring Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Google Cybersecurity Professional Certification Course</b>
