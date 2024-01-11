@@ -13,6 +13,17 @@
 
 <h2>🖌️ Web Development Projects:</h2>
 
+  - <b>HTML/CSS</b>
+    - [Product Landing Page from The Odin Project](https://ramgarces.github.io/TOP-LandingPage/)
+      - [Repository](https://github.com/ramgarces/TOP-LandingPage)
+  - <b>JavaScript</b>
+    - [Rock, Paper, Scissors from The Odin Project](https://ramgarces.github.io/TOP-RockPaperScissors/)
+      - [Repository](https://github.com/ramgarces/TOP-RockPaperScissors)
+    - [Etch-A-Sketch from The Odin Project](https://ramgarces.github.io/TOP-EtchASketch2/)
+      - [Repository](https://github.com/ramgarces/TOP-EtchASketch2)
+    - [Calculator from The Odin Project](https://ramgarces.github.io/TOP-Calculator/)
+      - [Repository](https://github.com/ramgarces/TOP-Calculator)
+
 <h2>📑 Certifications</h2>
 
 - [CompTIA Network+](https://drive.google.com/file/d/1qnbJMu8HMJT5nxQBnY32bf-SNBkb3xMl/view?usp=drive_link)
