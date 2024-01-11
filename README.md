@@ -9,6 +9,8 @@
   - [Analyze a Vulnerable System for a Small Business](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/README.md#analyze-a-vulnerable-system-for-a-small-business-google-cybersecurity-professional-certification)
   - [Document an Incident with an Incident Handler's Journal](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/README.md#document-an-incident-with-an-incident-handlers-journal-google-cybersecurity-professional-certification)
 
+<h2>🖥️ General IT Projects:</h2>
+
 <h2>📑 Certifications</h2>
 
 - [CompTIA Network+](https://drive.google.com/file/d/1qnbJMu8HMJT5nxQBnY32bf-SNBkb3xMl/view?usp=drive_link)
