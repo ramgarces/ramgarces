@@ -11,6 +11,8 @@
 
 <h2>🖥️ General IT Projects:</h2>
 
+<h2>🖌️ Web Development Projects:</h2>
+
 <h2>📑 Certifications</h2>
 
 - [CompTIA Network+](https://drive.google.com/file/d/1qnbJMu8HMJT5nxQBnY32bf-SNBkb3xMl/view?usp=drive_link)
