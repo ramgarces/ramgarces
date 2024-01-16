@@ -8,6 +8,7 @@
   - [Apply Filters to SQL Queries](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/README.md#apply-filters-to-sql-queries-google-cybersecurity-professional-certification)
   - [Analyze a Vulnerable System for a Small Business](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/README.md#analyze-a-vulnerable-system-for-a-small-business-google-cybersecurity-professional-certification)
   - [Document an Incident with an Incident Handler's Journal](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/README.md#document-an-incident-with-an-incident-handlers-journal-google-cybersecurity-professional-certification)
+  - [Perform a Query with Splunk](https://github.com/ramgarces/Perform-a-Query-with-Splunk)
 
 <h2>🖥️ General IT Projects:</h2>
 
