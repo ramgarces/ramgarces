@@ -12,7 +12,9 @@
   - [Perform a Query with Chronicle](https://github.com/ramgarces/Perform-a-Query-with-Chronicle)
 
 <h2>🖥️ General IT Projects:</h2>
-
+  
+  - [Setting up an Active Directory Home Lab](https://github.com/ramgarces/ActiveDirectoryHomeLab) (in progress)
+  
 <h2>🖌️ Web Development Projects:</h2>
 
   - <b>HTML/CSS</b>
