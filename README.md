@@ -13,7 +13,7 @@
 
 <h2>🖥️ General IT Projects:</h2>
   
-  - [Setting up an Active Directory Home Lab](https://github.com/ramgarces/ActiveDirectoryHomeLab) (in progress)
+  - [Setting up an Active Directory Home Lab](https://github.com/ramgarces/ActiveDirectoryHomeLab)
   
 <h2>🖌️ Web Development Projects:</h2>
 
