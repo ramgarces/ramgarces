@@ -10,6 +10,7 @@
   - [Document an Incident with an Incident Handler's Journal](https://github.com/ramgarces/CybersecurityPortfolio/blob/main/README.md#document-an-incident-with-an-incident-handlers-journal-google-cybersecurity-professional-certification)
   - [Perform a Query with Splunk](https://github.com/ramgarces/Perform-a-Query-with-Splunk)
   - [Perform a Query with Chronicle](https://github.com/ramgarces/Perform-a-Query-with-Chronicle)
+  - [Update a File Through a Python Algorithm](https://github.com/ramgarces/Update-a-file-through-a-python-algorithm)
 
 <h2>🖥️ General IT Projects:</h2>
   
